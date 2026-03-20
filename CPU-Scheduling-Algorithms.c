@@ -2,7 +2,7 @@
 #include <limits.h>
 #include <string.h>
 #include <stdbool.h>
-
+//For Round-Robin we need a Fixed time quantum. Here we are using Q=3.
 #define MAX 20
 #define Q 3 // Time Quantum for Round Robin
 
