@@ -1,2 +1,2 @@
 # Operating-System-Lab
-Contains some important questions for a basic Operating Systems LAB.
+Contains some Basic and important questions you should know as a CS major
